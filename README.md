@@ -5,7 +5,7 @@ Check `webpack.config.js` for project configuration.
 Here are the main commands:
 
 ## Install
-Run `npm init`
+Run `npm install`
 
 ## Watch
 
