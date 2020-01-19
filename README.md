@@ -1,3 +1,4 @@
+Start webpack template
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]

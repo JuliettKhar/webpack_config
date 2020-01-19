@@ -1,8 +1,8 @@
-import '../scss/styles.scss'; 
-import * as app from './app.js';
+import '../scss/main.scss';
+import * as index from './index.js';
 
-const __svg__  = { path: '../source/**/*.svg', name: 'assets/svg-sprites/[hash].logos.svg' };
-require('webpack-svgstore-plugin/src/helpers/svgxhr')(__svg__);
+const svg = { path: '../source/**/*.svg', name: 'assets/svg-sprites/[hash].logos.svg' };
+require('webpack-svgstore-plugin/src/helpers/svgxhr')(svg);
 
-app.init();
+index.init();
 
