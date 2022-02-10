@@ -41,7 +41,7 @@
     "jpegtran": "^1.0.6",
     "media-query-splitting-plugin": "^1.1.13",
     "mini-css-extract-plugin": "^0.7.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "plugin": "^0.3.3",
     "postcss-loader": "^3.0.0",
     "preload-webpack-plugin": "^2.3.0",
